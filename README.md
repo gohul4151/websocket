@@ -2,7 +2,7 @@
 
 This project contains:
 
-- A React + Vite chat frontend (`chat frontend`)
+- A React + Vite chat frontend (`websocket-frontend`)
 - A Node.js WebSocket backend (`websocket-backend`)
 
 Users can join a room by ID and exchange real-time messages with others in the same room.
